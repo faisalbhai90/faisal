@@ -24,5 +24,16 @@
             "expiryDate": "2028-01-01"
         }
     ]
+    "allowed_hwids": [
+        {
+            "username": "zigzag",
+            "displayUsername": "zigzag Bios",
+            "hwid": "S-1-5-21-938190518-35982728-1699710332-1002",
+            "expiryDate": "2028-01-01"
+        }
+    ]
+
+
+    
     
 }
